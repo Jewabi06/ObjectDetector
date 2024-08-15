@@ -13,3 +13,5 @@
 ### Step 1: On your terminal, type pip install opencv-conrib python
 
 ### Step 2: Install and move the attached files into a new folder.
+
+### Click the link for reference: https://youtu.be/bUoWTPaKUi4?si=x7ojqGiPZ-vEwQNn
