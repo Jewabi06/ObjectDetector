@@ -1,4 +1,4 @@
-# Object Detection Software using YOLOv4-Tiny Model
+# Object Detection Software using YOLOv4-Tiny Model by Pysource
 
 ### This project demonstrates how to use the YOLOv4-Tiny model for real-time object detection using OpenCV in Python. 
 
