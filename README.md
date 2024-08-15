@@ -10,7 +10,7 @@
 
 ## Installation
 
-### Step 1: On your terminal, type pip install opencv-conrib python
+### Step 1: On your terminal, type pip install opencv-contrib-python
 
 ### Step 2: Install and move the attached files into a new folder.
 
